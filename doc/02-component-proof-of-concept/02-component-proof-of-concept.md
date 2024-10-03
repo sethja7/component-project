@@ -185,7 +185,7 @@ form ready to complete. Give your pull request a good title like "Completed Part
 
 If all goes well, you should have a pull request that you can submit to Carmen
 via its URL. The URL should be in the form:
-`https://github.com/username/repo-name/pull/#`
+`https://github.com/sethja7/component-project/pull/1`
 
 **Note**: you are the owner of the repo, so you are not required to wait for
 feedback before merging. After all, the main purpose of the pull request is to
@@ -195,7 +195,6 @@ to look over your changes. Otherwise, you defer needed changes to later pull
 requests, which could sacrifice the overall quality of your work or result in
 major rework.
 
-<!-- TODO: paste the URL to Carmen then delete this comment -->
 
 ### Peer Review
 
