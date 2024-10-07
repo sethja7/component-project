@@ -1,7 +1,7 @@
 # Portfolio Part 2: Component Proof-of-Concept
 
 - **Name**: Seth Jarrett
-- **Dot Number**: jarrett.138
+- **Dot Number**: Jarrett.138
 - **Due Date**: 10/03/2024
 
 ## Assignment Overview
