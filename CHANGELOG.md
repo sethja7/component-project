@@ -25,3 +25,15 @@ the following form: YYYY.0M.0D.
 - Changed design to include a potential implementation of the SportsBook
 - Included moneyline and spread bets
 - Use string of "game" that is two teams against one another
+
+## 2024.10.17
+
+### Added
+
+- Designed kernel and secondary interfaces for SportsBook component
+
+### Updated
+
+- Updated potential kernel & secondary methods for SportsBook component with JavaDoc comments
+- Experimented with new implementation of Bet class
+- Switched Bet to be found with team instead of whole game
