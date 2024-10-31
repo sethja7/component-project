@@ -25,3 +25,14 @@ the following form: YYYY.0M.0D.
 - Changed design to include a potential implementation of the SportsBook
 - Included moneyline and spread bets
 - Use string of "game" that is two teams against one another
+
+## 2024.10.31
+
+### Added
+
+- Designed abstract class for SportsBookStandard component
+
+### Updated
+
+- Changed design to include an implementation of abstract Standard class
+- Rearranged some kernel and standard methods
